@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rudraksh-nile-18b68622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudraksh-nile-18b68622a" height="30" width="40" /></a>
-<a href="https://www.flaticon.com/free-icons/instagram" alt="rudraksh_6_" height="30" width="40" /></a>
+<a href="https://instagram.com/rudraksh_6_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudraksh_6_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rudrakshnile930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rudrakshnile930" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudra_nile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra_nile" height="30" width="40" /></a>
 </p>
