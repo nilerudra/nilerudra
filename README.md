@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/rudraksh-nile-18b68622a" target="blank"><img align="center" src="./img/linkedin.png" alt="rudraksh-nile-18b68622a" height="30" width="40" /></a>
   <a href="https://instagram.com/rudraksh_6_" target="blank"><img align="center" src="./img/instagram.png" alt="rudraksh_6_" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/rudrakshnile930" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="rudrakshnile930" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rudra_nile" target="blank"><img align="center" src="https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="rudra_nile" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rudra_nile" target="blank"><img align="center" src="[https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXZvcl1CJ5yHX2vXO3mYvP93wqSQ4lYj2TdqzsF3O4qS82g71amtS8-waPNge8lKaT70&usqp=CAU)" alt="rudra_nile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
