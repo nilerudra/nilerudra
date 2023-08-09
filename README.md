@@ -17,4 +17,4 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nilerudra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nwaliaez" /></p>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nilerudra&show_icons=true&locale=en&theme=tokyonight" alt="nilerudra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&theme=tokyonight" alt="nilerudra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&" alt="nilerudra" /></p>
