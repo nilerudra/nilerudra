@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Full stack web development**
 - 📫 How to reach me **rudrakshnile930@gmail.com or @nilerudra**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilerudra" alt="nilerudra" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nilerudra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
