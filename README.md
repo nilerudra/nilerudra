@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Nile</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🌱 I’m currently learning **Full stack web development**
+- 📫 How to reach me **rudrakshnile930@gmail.com or @nilerudra**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilerudra" alt="nilerudra" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rudraksh-nile-18b68622a" target="blank"><img align="center" src="./img/linkedin.png" alt="rudraksh-nile-18b68622a" height="30" width="40" /></a>
-  <a href="https://instagram.com/rudraksh_6_" target="blank"><img align="center" src="./img/instagram.png" alt="rudraksh_6_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rudraksh-nile-18b68622a" target="blank"><img align="center" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMPnoKWw7TKig03YGoH8XTg%3D%3D" alt="rudraksh-nile-18b68622a" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/rudrakshnile930" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="rudrakshnile930" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/rudra_nile" target="blank"><img align="center" src="[https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXZvcl1CJ5yHX2vXO3mYvP93wqSQ4lYj2TdqzsF3O4qS82g71amtS8-waPNge8lKaT70&usqp=CAU)" alt="rudra_nile" height="30" width="40" /></a>
 </p>
