@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Nile</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BD+This+is+Rudra%2C+Welcome+to+my+Github+page." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%F0%9F%91%8B%F0%9F%8F%BD+This+is+Rudra%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Full stack web development**
 - 📫 How to reach me **rudrakshnile930@gmail.com or @nilerudra**
