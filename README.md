@@ -21,4 +21,4 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=nilerudra&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=nilerudra&show_icons=true&locale=en&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra" alt="nilerudra"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&theme=tokyonight" alt="nilerudra"/>
