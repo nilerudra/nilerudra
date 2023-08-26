@@ -12,8 +12,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nilerudra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rudraksh-nile-18b68622a" target="blank"><img align="center" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMPnoKWw7TKig03YGoH8XTg%3D%3D" alt="rudraksh-nile-18b68622a" height="30" width="40" /></a>
+  ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudraksh_6_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksh-nile-18b68622a) 
+
   <a href="https://www.hackerrank.com/rudrakshnile930" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="rudrakshnile930" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/rudra_nile" target="blank"><img align="center" src="[https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXZvcl1CJ5yHX2vXO3mYvP93wqSQ4lYj2TdqzsF3O4qS82g71amtS8-waPNge8lKaT70&usqp=CAU)" alt="rudra_nile" height="30" width="40" /></a>
 </p>
