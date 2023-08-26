@@ -51,15 +51,15 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
-
-<div align="center">
-  <div style="display: inline-block; width: 49%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+<div align="left">
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nilerudra&theme=dark&hide_border=false" alt="GitHub Stats" />
   </div>
-  <div style="display: inline-block; width: 49%;">
+  <div style="display: inline-block;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
