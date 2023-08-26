@@ -52,6 +52,14 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <div style="display: inline-block; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+  </div>
+  <div style="display: inline-block; width: 49%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilerudra&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </div>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilerudra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
