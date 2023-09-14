@@ -27,9 +27,6 @@
   <a href="https://www.leetcode.com/rudra_nile" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=Leetcode&logoColor=white" alt="LeetCode" />
   </a>
-   <a href="https://www.codechef.com/users/rudranile_06" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef%23E4405F.svg?logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
