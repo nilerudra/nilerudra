@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=Leetcode&logoColor=white" alt="LeetCode" />
   </a>
    <a href="https://www.codechef.com/users/rudranile_06" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%23E4405F.svg?logo=HackerRank&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef%23E4405F.svg?logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
