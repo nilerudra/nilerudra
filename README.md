@@ -1,14 +1,11 @@
 <h1 align="center">👋 Hey there, I'm Rudraksh Nile</h1>
-<h3 align="center">🚀 Enthusiastic Software Engineer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nilerudra&label=Profile%20views&color=blueviolet&style=flat-square" alt="nilerudra" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AD267&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB+This+is+Rudra%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
 
-<p align="center">
-  🌱 Currently diving into <strong>Full Stack Web Development</strong>
-</p>
 
 <p align="center">
   📫 How to reach me: <a href="mailto:rudrakshnile930@gmail.com">rudrakshnile930@gmail.com</a> 
